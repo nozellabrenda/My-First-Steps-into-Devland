@@ -4,9 +4,6 @@
 
 1. Lógica de programação
 2. Algorítimo
-3. HTML
-4. PHP
-5. WordPress Módulo 1
 
 ### DIO <H3>
 
@@ -85,32 +82,5 @@
 - CURSO Layouts Responsivos: Trabalhando com layouts mobile</li>
 - CURSO CSS: Dispondo elementos com Flexbox e Grid</li>
 - CURSO Guia de estilos: Montando páginas com componentes</li>
-
-#### 4. Formação Wordpress <H4>
-
-- CURSO Wordpress: Sites com Elementor</li>
-- CURSO Wordpress: integração whatsapp e internacionalização</li>
-- CURSO Introdução ao PHP: Primeiros passos com a linguagem</li>
-- CURSO Avançando com PHP: Arrays, Strings, Função e Web</li>
-- CURSO WordPress: Criação de um tema personalizado</li>
-- CURSO Plugin no Wordpress: widget, shortcode e configurações</li>
-- CURSO SEO Wordpress: Otimize o ranqueamento do seu site</li>
-    
-#### 5. Formação PHP <H4>
-
-- CURSO Introdução ao PHP: Primeiros passos com a linguagem</li>
-- CURSO Avançando com PHP: Arrays, Strings, Função e Web</li>
-- CURSO Orientação a Objetos com PHP: Classes, métodos e atributos</li>
-- CURSO Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces</li>
-- CURSO PHP: Manipulando coleções com Arrays</li>
-- CURSO PHP Exceptions: Tratamento de erros</li>
-- CURSO PHP Composer: Dependências, Autoload e Publicação</li>
-- CURSO PHP e PDO: Trabalhando com bancos de dados</li>
-- CURSO Doctrine ORM: Acesse o banco com Mapeamento Objeto-Relacional</li>
-- CURSO MVC com PHP: Entenda o padrão Model-View-Controller</li>
-- CURSO Laravel parte 1: Produtividade no desenvolvimento web</li>
-- CURSO Laravel parte 2: Trabalhando com Autenticação, Relacionamentos e Testes</li>
-- CURSO Laravel parte 3: Eventos, filas, upload e e-mail</li>
-- CURSO Lumen: API Rest com o Micro-framework do Laravel</li>
   
 ### Kenzie + Dupla: Elas codam <H3>
