@@ -57,9 +57,13 @@
 #### 2. Formação Front-end <H4>
 
 - CURSO HTML5 e CSS3 parte 1: A primeira página da Web</li>
+  Formação Iniciante em Programação
 - CURSO HTML5 e CSS3 parte 2: Posicionamento, listas e navegação</li>
+  Formação Iniciante em Programação
 - CURSO HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas</li>
+  Formação Iniciante em Programação
 - CURSO HTML5 e CSS3 parte 4: Avançando no CSS</li>
+  Formação Iniciante em Programação
 - CURSO Acessibilidade web parte 1: tornando seu front-end inclusivo</li>
 - CURSO JavaScript: primeiros passos com a linguagem</li>
 - CURSO JavaScript: Programando a Orientação a Objetos</li>
@@ -76,9 +80,13 @@
 #### 3. Formação HTML e CSS <H4>
 
 - CURSO HTML5 e CSS3 parte 1: A primeira página da Web</li>
+  Formação Iniciante em Programação
 - CURSO HTML5 e CSS3 parte 2: Posicionamento, listas e navegação</li>
+  Formação Iniciante em Programação
 - CURSO HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas</li>
+  Formação Iniciante em Programação
 - CURSO HTML5 e CSS3 parte 4: Avançando no CSS</li>
+  Formação Iniciante em Programação
 - CURSO Layouts Responsivos: Trabalhando com layouts mobile</li>
 - CURSO CSS: Dispondo elementos com Flexbox e Grid</li>
 - CURSO Guia de estilos: Montando páginas com componentes</li>
